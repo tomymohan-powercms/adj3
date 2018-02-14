@@ -1,0 +1,7 @@
+/*.pane-content{
+  display: inline-flex;
+}*/
+
+.views-row-last {
+  img {width:200px; height:100px; }
+}
